@@ -18,7 +18,7 @@ const InputsPercents = (props) => {
                     onChangeText={props.inputValPercents}
                     keyboardType="phone-pad"
                     placeholder='% Here...'
-                    maxLength={3}
+                    // maxLength={3}
                 />
             </SafeAreaView>
         </View>
