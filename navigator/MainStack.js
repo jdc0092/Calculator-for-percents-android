@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import SectionPercents from "../View/SectionPercents";
 import SectionCalculator from "../View/SectionCalculator";
-import OtherSesion from "../View/OtherSesion"
+// import OtherSesion from "../View/OtherSesion"
 
 
 const Stack = createNativeStackNavigator();
